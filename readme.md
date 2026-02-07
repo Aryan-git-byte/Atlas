@@ -1,4 +1,4 @@
-# Atlas DevBoar
+# Atlas DevBoard
 
 ## about the Board:
 It is one of those perfect devboard i need for my projects, especically my IoTs one, and i was pretty tired of conecting different modules together, wiring em and all, SO i thought that why cant i make a board than fulfills my need, and this may even come handy for many other hackers/dev too. 
