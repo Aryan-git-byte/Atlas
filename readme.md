@@ -43,6 +43,7 @@ this page does the heavy work, with the first u can see the esp32-block along wi
 ![alt text](pcb/pcb1.png)
 ![alt text](pcb/pcb2.png)
 ![alt text](pcb/pcb3.png)
+![alt text](pcb/pcb4.png)
 
 # BOM:
 ## Quartz Components/ Robu / Aero kart india:
